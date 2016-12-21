@@ -20,11 +20,18 @@ My CodinGame's inputs in JAVASCRIPT as well as PHP.
 | Medium Puzzle | PHP | JS |             
 |--------------:| ---:| --:|               
 |               |     |    |
+|               |     |    |
+|               |     |    |
+
 
 | Hard Puzzle | PHP   |  JS |               
 |------------:| -----:| ---:|                
 |             |       |     |
+|             |       |     |
+|             |       |     |
 
 | Very Hard Puzzle | PHP  | JS   |              
 |-----------------:| ----:| ----:|                
+|                  |      |      |
+|                  |      |      |
 |                  |      |      |
